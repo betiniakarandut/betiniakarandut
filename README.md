@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development and Machine Learning Engineering...
 - 🌱 I’m currently practicing software engineering at ALX holberton ...
 - 💞️ I’m looking forward to collaborate on anything that will make a great deal ...
-- 📫 Reach out to me on Twitter @zanelloris. On LinkedIn Betini Akarandut.
+- 📫 Reach out to me on LinkedIn https://www.linkedin.com/in/betini-akarandut-24654321a/.
+- Email betiniakarandut@gmail.com
 
 <!---
 betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
