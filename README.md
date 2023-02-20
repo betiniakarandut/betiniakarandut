@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing Software engineering at HOLBERTON SCHOOL ...
 - 💞️ I’m looking forward to collaborate on anything that will make a great deal ...
 - 📫 Reach out to me on LinkedIn [Betini Akarandut](https://www.linkedin.com/in/betini-akarandut-24654321a/) or Twitter at [Betini Akarandut](https://twitter.com/zanelloris).
-- Email [me](betiniakarandut@gmail.com)
+- Email ...I'll see you there!
 
 <!---
 betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
