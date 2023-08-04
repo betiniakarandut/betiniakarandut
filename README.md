@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Betini Akarandut:computer:</h1>
 <h3 align="center">I’m interested in Software and Machine Learning Engineering</h3>
 I’m currently practicing Software engineering at ALX HOLBERTON SCHOOL ...
-<img align= "right" alt="Super" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align= "right" alt="Super" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <hr>
 
-- 📫 Reach out to me
-LinkedIn: [betiniakarandut](https://www.linkedin.com/in/betini-akarandut-24654321a/)
-Twitter: [@betiniakarandut](https://twitter.com/betiniakarandut).
-
 - 💬 You can ask me about **Back-End Development**
-- 📫 How to reach me **betiniakarandut@gmail.com**
-- ⚡ Current Aim **Member In The Room Fellowship**
+- ⚡ Current Target **Member The Room**
 - 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the C and JavaScript programming language
 - 🌍 Python Web Development and Software Engineering
+- 📫 Reach out to me
+- **betiniakarandut@gmail.com**
+- LinkedIn: **[betiniakarandut](https://www.linkedin.com/in/betini-akarandut-24654321a/)**
+- Twitter: **[@betiniakarandut](https://twitter.com/betiniakarandut)**
 <hr>
 
 ## ❤ Views and Followers.
