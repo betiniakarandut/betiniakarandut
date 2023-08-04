@@ -1,17 +1,13 @@
-- 👋 <h1 align="center">Hi, I'm Betini Akarandut:computer:</h1>
-- 👀 <h3 align="center">I’m interested in Software and Machine Learning Engineering</h3>
-- 🌱 I’m currently practicing Software engineering at ALX HOLBERTON SCHOOL ...
-- 💞️ <img align= "right" alt="Super" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<h1 align="center">Hi, I'm Betini Akarandut:computer:</h1>
+<h3 align="center">I’m interested in Software and Machine Learning Engineering</h3>
+I’m currently practicing Software engineering at ALX HOLBERTON SCHOOL ...
+<img align= "right" alt="Super" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <hr>
+
 - 📫 Reach out to me
 LinkedIn: [betiniakarandut](https://www.linkedin.com/in/betini-akarandut-24654321a/)
 Twitter: [@betiniakarandut](https://twitter.com/betiniakarandut).
 
-<!---
-betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![@zaneiq2024's Holopin board](https://holopin.me/zaneiq2024)](https://holopin.io/@zaneiq2024)
 - 💬 You can ask me about **Back-End Development**
 - 📫 How to reach me **betiniakarandut@gmail.com**
 - ⚡ Current Aim **Member In The Room Fellowship**
@@ -27,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/betiniakarandut?tab=followers"><img src="https://img.shields.io/github/followers/betiniakarandut?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 
-  💻Tech Stack/Technologies.
+##  💻Tech Stack/Technologies.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,3 +40,10 @@ You can click the Preview link to take a look at your changes.
 ##  📊Stats.⚖️
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betiniakarandut&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betiniakarandut&theme=dark" alt="Betini" /></p>
+
+## Contribution to Open Source
+<!---
+betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+[![@zaneiq2024's Holopin board](https://holopin.me/zaneiq2024)](https://holopin.io/@zaneiq2024)
