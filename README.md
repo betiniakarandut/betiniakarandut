@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Betini Akarandut:computer:</h1>
 <h3 align="center">I’m interested in Software and Machine Learning Engineering</h3>
-<h3 align="center">I’m currently practicing Software engineering at the ALX HOLBERTON SCHOOL ...</h3>
+<h3 align="center">I’m currently practicing Software engineering at the HOLBERTON SCHOOL ...</h3>
 <img align= "right" alt="Super" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <hr>
 
