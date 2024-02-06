@@ -5,7 +5,7 @@
 
 - 💬 You can ask me about **Back-End Development**
 - ⚡ **Member The Room**
-- 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the C and JavaScript programming language
+- 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the Python, C, and JavaScript programming language
 - 🌍 Python Web Development and Software Engineering
 - 📫 Reach out to me
 <br>**betiniakarandut@gmail.com**
