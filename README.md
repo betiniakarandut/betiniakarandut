@@ -59,7 +59,7 @@
 
 [![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=betiniakarandut&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=betiniakarandut6&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=betiniakarandut&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=betiniakarandut&theme=radical)](https://git.io/streak-stats)
 
