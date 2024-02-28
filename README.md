@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Betini Akarandut</h1>
-<h3 align="center">I’m interested in Software and Machine Learning Engineering</h3>
+<h1 align="center">Hi, my name is Betini Akarandut</h1>
+<h3 align="center">Welcome to my codebase. Explore and have fun!</h3>
 <img align= "right" alt="Super" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <hr>
 
 - 💬 You can ask me about **Back-End Development**
 - ⚡ **Member The Room**
-- 🔩 Implementation of **Data structures and Algorithms** with the Python, C, and JavaScript programming language
+- 🔩 Implementation of **Data structures and Algorithms** with Python, C, and JavaScript programming language
 - 🌍 Web Development and Software Engineering
 - 📫 Reach out to me
 <br>**betiniakarandut@gmail.com**
