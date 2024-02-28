@@ -53,7 +53,7 @@
 </div>
 
 <br>
-<p><strong>📊Stats.⚖️</strong></p>
+<strong>📊Stats.⚖️</strong>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=betiniakarandut&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
