@@ -54,6 +54,7 @@
 </div>
 
 <br>
+<p><strong>📊Stats.⚖️</strong></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=betiniakarandut&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -61,7 +62,6 @@
 
 <br>
 <div>
-   <strong><p>📊Stats.⚖️</p></strong>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betiniakarandut&layout=compact&theme=dark&hide_border=false" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betiniakarandut&theme=dark" alt="Betini" /></p>
 </div>
