@@ -53,7 +53,8 @@
 </div>
 
 <br>
-<strong>📊Stats.⚖️</strong>
+
+## 📊Stats.⚖️
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=betiniakarandut&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -65,7 +66,7 @@
 
 <br>
 
-<p>Open Source Contribution</p>
+## Open Source Contribution
 
 <!---
 betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
