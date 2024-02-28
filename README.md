@@ -53,21 +53,20 @@
     <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
 
-<div>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-    [![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=betiniakarandut&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=betiniakarandut&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
    <strong><p>📊Stats.⚖️</p></strong>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betiniakarandut&layout=compact&theme=dark&hide_border=false" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betiniakarandut&theme=dark" alt="Betini" /></p>
 </div>
-<div>
-    <p>Open Source Contribution</p>
-    <!---
-    betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    You can click the Preview link to take a look at your changes.
-    --->
-    [![@zaneiq2024's Holopin board](https://holopin.me/zaneiq2024)](https://holopin.io/@zaneiq2024)
-</div>
+
+<p>Open Source Contribution</p>
+<!---
+betiniakarandut/betiniakarandut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+[![@zaneiq2024's Holopin board](https://holopin.me/zaneiq2024)](https://holopin.io/@zaneiq2024)
